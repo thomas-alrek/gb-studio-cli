@@ -1,6 +1,6 @@
 {
   "name": "gb-studio-cli",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "CLI tools for GB Studio",
   "main": "index.js",
   "repository": "https://github.com/thomas-alrek/gb-studio-cli",
