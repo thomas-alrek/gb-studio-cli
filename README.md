@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/npm/v/gb-studio-cli.svg)](https://www.npmjs.com/package/gb-studio-cli)
 [![Downloads](https://img.shields.io/npm/dw/gb-studio-cli.svg)](https://www.npmjs.com/package/gb-studio-cli)
 
+A CLI tool for compiling [GB Studio](https://github.com/chrismaltby/gb-studio) projects
+
 ## Installation
 
 ```bash
